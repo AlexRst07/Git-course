@@ -1,6 +1,4 @@
 I like GitHub!!!    
-I use GitHub every day
-
 This is the Git Course
 The best chance to learn more about GitHub
 work
